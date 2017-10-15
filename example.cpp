@@ -1,10 +1,6 @@
 
 /* File : example.c */
 #include "example.h"
-
-double My_variable = 3.0;
-double *My_double;
-int My_int[3];
 /* Compute factorial of n */
 int fact(int n) {
     if (n <= 1)

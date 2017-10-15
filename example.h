@@ -6,6 +6,10 @@ public:
     My_class();
     
     int add(int a, int b);
+    
+    double My_variable = 3.0;
+    double *My_double;
+    int My_int[3];
 };
 
 int fact(int n);
