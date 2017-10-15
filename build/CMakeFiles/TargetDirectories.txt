@@ -1,1 +1,0 @@
-/Users/adnan/Desktop/swig_test/build/CMakeFiles/_example.dir
