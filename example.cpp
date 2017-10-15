@@ -15,3 +15,10 @@ int fact(int n) {
 int my_mod(int n, int m) {
     return(n % m);
 }
+
+My_class::My_class(){
+    
+}
+int My_class::add(int a, int b){
+    return a+b;
+}
