@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+../example.h
+
 /Library/Frameworks/Python.framework/Headers/Python.h
 patchlevel.h
 /Library/Frameworks/Python.framework/Headers/patchlevel.h
@@ -349,12 +351,12 @@ string.h
 -
 stdexcept
 -
+example.h
+/Users/adnan/Desktop/swig_test/build/example.h
 limits.h
 -
 float.h
 -
 math.h
 -
-
-/Users/adnan/Desktop/swig_test/example.cpp
 

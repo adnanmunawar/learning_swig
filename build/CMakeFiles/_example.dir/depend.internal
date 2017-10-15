@@ -3,7 +3,9 @@
 
 CMakeFiles/_example.dir/example.cpp.o
  /Users/adnan/Desktop/swig_test/example.cpp
+ /Users/adnan/Desktop/swig_test/example.h
 CMakeFiles/_example.dir/examplePYTHON_wrap.cxx.o
+ ../example.h
  /Library/Frameworks/Python.framework/Headers/Python.h
  /Library/Frameworks/Python.framework/Headers/abstract.h
  /Library/Frameworks/Python.framework/Headers/boolobject.h

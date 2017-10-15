@@ -3033,11 +3033,9 @@ namespace swig {
 }
 
 
-    /* Put headers and other declarations here */
+#include "example.h"
     extern double My_variable;
-    extern int    fact(int);
-    extern int    my_mod(int n, int m);
-    
+
 
 SWIGINTERN int
 SWIG_AsVal_double (PyObject *obj, double *val)
