@@ -14,8 +14,12 @@ int my_mod(int n, int m) {
     return(n % m);
 }
 
+double my_multiply(double x, double y){
+ return x*y;
+}
+
 My_class::My_class(){
-    
+
 }
 int My_class::add(int a, int b){
     return a+b;
