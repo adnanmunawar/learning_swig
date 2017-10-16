@@ -24,3 +24,7 @@ My_class::My_class(){
 int My_class::add(int a, int b){
     return a+b;
 }
+
+char* My_class::add_char(char * val){
+  return val;
+}
